@@ -1,8 +1,10 @@
 # Hello ( ˘︹˘ ) 
 
-*Let your curiosty lead the way ツ*
+Let your curiosty lead the way ツ
 
-*I code. 
+## About me
+----
+I code. 
 I mean, I try. 
-I mean, I have to ( ˘︹˘ )*
+I mean, I have to ( ˘︹˘ )
 
